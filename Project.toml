@@ -3,6 +3,10 @@ uuid = "c53db057-3c94-4add-a782-ad03c4d570cf"
 authors = ["Patrick Armstrong <u6096820@anu.edu.au> and contributors"]
 version = "0.1.0"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterTools = "35a29f4d-8980-5a13-9543-d66fff28ecb8"
+
 [compat]
 julia = "1"
 
